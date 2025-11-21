@@ -1,0 +1,98 @@
+# ==============================================================================
+# Security & Environment
+# ==============================================================================
+.env
+.env.local
+.env.*.local
+!.env.example
+*.pem
+*.key
+*.token
+
+# ==============================================================================
+# Audio Data & Private Recordings (Protect Personal Data)
+# ==============================================================================
+# Exclude raw audio, private recordings, and transient slices
+*.mp3
+*.m4a
+*.aac
+*.wma
+*.flac
+*.ogg
+temp_mono_audio.wav
+speaker_*.wav
+Recording*
+two_speakers*
+three_speakers*
+three-speaker*
+tough*
+
+# Retain explicitly tracked open-source benchmark audio, sample, and verified results
+!data/an4_diarize_test.wav
+!data/an4_diarize_test.rttm
+!data/*.json
+!data/*.yaml
+!results/
+!results/*
+
+# Generated Segments and Transient Transcriptions
+segments/
+output/
+output_nemo/
+outputs/
+
+# Intermediate embeddings and feature dumps
+*.pkl
+*.pickle
+*.npy
+*.npz
+*.frame
+*.median
+*.label
+
+# ==============================================================================
+# Model Weights & Caches
+# ==============================================================================
+*.nemo
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+.cache/
+tmp/
+models_cache/
+
+# ==============================================================================
+# Python & Environment Artifacts
+# ==============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Testing & Packaging
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+dist/
+build/
+*.egg-info/
+
+# ==============================================================================
+# IDEs & System Files
+# ==============================================================================
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,7 @@
+[0.80s - 4.60s] SPK_DIANE: Okay I thought you know I heard a beep this is Diane in New Jersey
+[5.00s - 8.40s] SPK_SHEILA: and I'm Sheila in Texas originally from Chicago
+[8.80s - 10.70s] SPK_D: October 24 1970
+[11.20s - 15.00s] SPK_DIANE: Okay I thought you know I heard a beep this is Diane in New Jersey
+[15.50s - 18.90s] SPK_SHEILA: and I'm Sheila in Texas originally from Chicago
+[19.30s - 21.20s] SPK_D: October 24 1970
+[21.80s - 25.60s] SPK_DIANE: Okay I thought you know I heard a beep this is Diane in New Jersey

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "2spk_trial1_26s_clean",
+    "condition": "Clean",
+    "speakers_category": "2spk",
+    "trial": 1,
+    "num_speakers": 2,
+    "audio": "data/eval_suite\\2spk_trial1_26s_clean.wav",
+    "ref_rttm": "data/eval_suite\\2spk_trial1_26s_clean.rttm",
+    "ref_text": "data/eval_suite\\2spk_trial1_26s_clean.txt",
+    "duration": 26.0
+  },
+  {
+    "id": "2spk_trial1_26s_noisy",
+    "condition": "Noisy",
+    "speakers_category": "2spk",
+    "trial": 1,
+    "num_speakers": 2,
+    "audio": "data/eval_suite\\2spk_trial1_26s_noisy.wav",
+    "ref_rttm": "data/eval_suite\\2spk_trial1_26s_noisy.rttm",
+    "ref_text": "data/eval_suite\\2spk_trial1_26s_noisy.txt",
+    "duration": 26.0
+  },
+  {
+    "id": "2spk_trial2_23s_clean",
+    "condition": "Clean",
+    "speakers_category": "2spk",
+    "trial": 2,
+    "num_speakers": 2,
+    "audio": "data/eval_suite\\2spk_trial2_23s_clean.wav",
+    "ref_rttm": "data/eval_suite\\2spk_trial2_23s_clean.rttm",
+    "ref_text": "data/eval_suite\\2spk_trial2_23s_clean.txt",
+    "duration": 23.0
+  },
+  {
+    "id": "2spk_trial2_23s_noisy",
+    "condition": "Noisy",
+    "speakers_category": "2spk",
+    "trial": 2,
+    "num_speakers": 2,
+    "audio": "data/eval_suite\\2spk_trial2_23s_noisy.wav",
+    "ref_rttm": "data/eval_suite\\2spk_trial2_23s_noisy.rttm",
+    "ref_text": "data/eval_suite\\2spk_trial2_23s_noisy.txt",
+    "duration": 23.0
+  },
+  {
+    "id": "2spk_trial3_21s_clean",
+    "condition": "Clean",
+    "speakers_category": "2spk",
+    "trial": 3,
+    "num_speakers": 2,
+    "audio": "data/eval_suite\\2spk_trial3_21s_clean.wav",
+    "ref_rttm": "data/eval_suite\\2spk_trial3_21s_clean.rttm",
+    "ref_text": "data/eval_suite\\2spk_trial3_21s_clean.txt",
+    "duration": 21.0
+  },
+  {
+    "id": "2spk_trial3_21s_noisy",
+    "condition": "Noisy",
+    "speakers_category": "2spk",
+    "trial": 3,
+    "num_speakers": 2,
+    "audio": "data/eval_suite\\2spk_trial3_21s_noisy.wav",
+    "ref_rttm": "data/eval_suite\\2spk_trial3_21s_noisy.rttm",
+    "ref_text": "data/eval_suite\\2spk_trial3_21s_noisy.txt",
+    "duration": 21.0
+  },
+  {
+    "id": "3spk_trial1_24s_clean",
+    "condition": "Clean",
+    "speakers_category": "3spk",
+    "trial": 1,
+    "num_speakers": 3,
+    "audio": "data/eval_suite\\3spk_trial1_24s_clean.wav",
+    "ref_rttm": "data/eval_suite\\3spk_trial1_24s_clean.rttm",
+    "ref_text": "data/eval_suite\\3spk_trial1_24s_clean.txt",
+    "duration": 24.0
+  },
+  {
+    "id": "3spk_trial1_24s_noisy",
+    "condition": "Noisy",
+    "speakers_category": "3spk",
+    "trial": 1,
+    "num_speakers": 3,
+    "audio": "data/eval_suite\\3spk_trial1_24s_noisy.wav",
+    "ref_rttm": "data/eval_suite\\3spk_trial1_24s_noisy.rttm",
+    "ref_text": "data/eval_suite\\3spk_trial1_24s_noisy.txt",
+    "duration": 24.0
+  },
+  {
+    "id": "3spk_trial2_26s_clean",
+    "condition": "Clean",
+    "speakers_category": "3spk",
+    "trial": 2,
+    "num_speakers": 3,
+    "audio": "data/eval_suite\\3spk_trial2_26s_clean.wav",
+    "ref_rttm": "data/eval_suite\\3spk_trial2_26s_clean.rttm",
+    "ref_text": "data/eval_suite\\3spk_trial2_26s_clean.txt",
+    "duration": 26.5
+  },
+  {
+    "id": "3spk_trial2_26s_noisy",
+    "condition": "Noisy",
+    "speakers_category": "3spk",
+    "trial": 2,
+    "num_speakers": 3,
+    "audio": "data/eval_suite\\3spk_trial2_26s_noisy.wav",
+    "ref_rttm": "data/eval_suite\\3spk_trial2_26s_noisy.rttm",
+    "ref_text": "data/eval_suite\\3spk_trial2_26s_noisy.txt",
+    "duration": 26.5
+  },
+  {
+    "id": "3spk_trial3_22s_clean",
+    "condition": "Clean",
+    "speakers_category": "3spk",
+    "trial": 3,
+    "num_speakers": 3,
+    "audio": "data/eval_suite\\3spk_trial3_22s_clean.wav",
+    "ref_rttm": "data/eval_suite\\3spk_trial3_22s_clean.rttm",
+    "ref_text": "data/eval_suite\\3spk_trial3_22s_clean.txt",
+    "duration": 22.0
+  },
+  {
+    "id": "3spk_trial3_22s_noisy",
+    "condition": "Noisy",
+    "speakers_category": "3spk",
+    "trial": 3,
+    "num_speakers": 3,
+    "audio": "data/eval_suite\\3spk_trial3_22s_noisy.wav",
+    "ref_rttm": "data/eval_suite\\3spk_trial3_22s_noisy.rttm",
+    "ref_text": "data/eval_suite\\3spk_trial3_22s_noisy.txt",
+    "duration": 22.0
+  },
+  {
+    "id": "4spk_trial1_29s_clean",
+    "condition": "Clean",
+    "speakers_category": "4spk",
+    "trial": 1,
+    "num_speakers": 4,
+    "audio": "data/eval_suite\\4spk_trial1_29s_clean.wav",
+    "ref_rttm": "data/eval_suite\\4spk_trial1_29s_clean.rttm",
+    "ref_text": "data/eval_suite\\4spk_trial1_29s_clean.txt",
+    "duration": 29.0
+  },
+  {
+    "id": "4spk_trial1_29s_noisy",
+    "condition": "Noisy",
+    "speakers_category": "4spk",
+    "trial": 1,
+    "num_speakers": 4,
+    "audio": "data/eval_suite\\4spk_trial1_29s_noisy.wav",
+    "ref_rttm": "data/eval_suite\\4spk_trial1_29s_noisy.rttm",
+    "ref_text": "data/eval_suite\\4spk_trial1_29s_noisy.txt",
+    "duration": 29.0
+  },
+  {
+    "id": "4spk_trial2_28s_clean",
+    "condition": "Clean",
+    "speakers_category": "4spk",
+    "trial": 2,
+    "num_speakers": 4,
+    "audio": "data/eval_suite\\4spk_trial2_28s_clean.wav",
+    "ref_rttm": "data/eval_suite\\4spk_trial2_28s_clean.rttm",
+    "ref_text": "data/eval_suite\\4spk_trial2_28s_clean.txt",
+    "duration": 28.5
+  },
+  {
+    "id": "4spk_trial2_28s_noisy",
+    "condition": "Noisy",
+    "speakers_category": "4spk",
+    "trial": 2,
+    "num_speakers": 4,
+    "audio": "data/eval_suite\\4spk_trial2_28s_noisy.wav",
+    "ref_rttm": "data/eval_suite\\4spk_trial2_28s_noisy.rttm",
+    "ref_text": "data/eval_suite\\4spk_trial2_28s_noisy.txt",
+    "duration": 28.5
+  },
+  {
+    "id": "4spk_trial3_27s_clean",
+    "condition": "Clean",
+    "speakers_category": "4spk",
+    "trial": 3,
+    "num_speakers": 4,
+    "audio": "data/eval_suite\\4spk_trial3_27s_clean.wav",
+    "ref_rttm": "data/eval_suite\\4spk_trial3_27s_clean.rttm",
+    "ref_text": "data/eval_suite\\4spk_trial3_27s_clean.txt",
+    "duration": 27.0
+  },
+  {
+    "id": "4spk_trial3_27s_noisy",
+    "condition": "Noisy",
+    "speakers_category": "4spk",
+    "trial": 3,
+    "num_speakers": 4,
+    "audio": "data/eval_suite\\4spk_trial3_27s_noisy.wav",
+    "ref_rttm": "data/eval_suite\\4spk_trial3_27s_noisy.rttm",
+    "ref_text": "data/eval_suite\\4spk_trial3_27s_noisy.txt",
+    "duration": 27.0
+  }
+]

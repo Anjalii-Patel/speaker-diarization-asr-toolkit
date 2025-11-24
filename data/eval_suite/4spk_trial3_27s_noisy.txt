@@ -1,0 +1,9 @@
+[0.50s - 2.40s] SPK_B: October 24 1970
+[2.80s - 5.30s] SPK_C: 11 27 57
+[5.80s - 9.20s] SPK_SHEILA: and I'm Sheila in Texas originally from Chicago
+[9.60s - 11.50s] SPK_D: October 24 1970
+[12.00s - 13.90s] SPK_B: October 24 1970
+[14.30s - 16.80s] SPK_C: 11 27 57
+[17.20s - 20.60s] SPK_SHEILA: and I'm Sheila in Texas originally from Chicago
+[21.00s - 22.90s] SPK_D: October 24 1970
+[23.30s - 25.80s] SPK_C: 11 27 57

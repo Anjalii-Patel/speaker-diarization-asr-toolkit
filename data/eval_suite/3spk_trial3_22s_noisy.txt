@@ -1,0 +1,8 @@
+[0.50s - 2.40s] SPK_B: October 24 1970
+[2.80s - 5.30s] SPK_C: 11 27 57
+[5.80s - 7.70s] SPK_D: October 24 1970
+[8.20s - 10.10s] SPK_B: October 24 1970
+[10.50s - 13.00s] SPK_C: 11 27 57
+[13.50s - 15.40s] SPK_D: October 24 1970
+[16.00s - 17.90s] SPK_B: October 24 1970
+[18.50s - 21.00s] SPK_C: 11 27 57

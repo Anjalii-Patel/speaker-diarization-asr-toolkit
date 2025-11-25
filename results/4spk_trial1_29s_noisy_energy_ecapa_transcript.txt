@@ -1,0 +1,6 @@
+[0.00s - 11.30s] SPEAKER_00: 11, 27, 57. I'm October 24, 1970. 11, 27, 57. I'm October 24, 1970.
+[11.44s - 14.12s] SPEAKER_01: 11, 27, 57.
+[14.20s - 22.25s] SPEAKER_00: October 24, 1970.
+[22.46s - 25.14s] SPEAKER_01: 11, 27, 57.
+[25.24s - 28.23s] SPEAKER_03: You know, 3757.
+[28.40s - 28.75s] SPEAKER_02: you

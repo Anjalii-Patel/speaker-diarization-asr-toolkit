@@ -1,0 +1,10 @@
+[0.50s - 3.10s] SPEAKER_03: 11, 27, 57.
+[3.50s - 5.70s] SPEAKER_01: October 24, 1970.
+[6.00s - 8.50s] SPEAKER_00: You know, in 1757.
+[9.00s - 11.10s] SPEAKER_02: I told you before, thank you so much.
+[11.50s - 14.10s] SPEAKER_03: 11, 27, 57.
+[14.50s - 16.60s] SPEAKER_01: October 24, 1970.
+[17.00s - 19.50s] SPEAKER_00: 11, 27, 57.
+[20.00s - 22.10s] SPEAKER_02: I heard from you for a very good reason.
+[22.50s - 25.10s] SPEAKER_03: 11, 27, 57.
+[25.50s - 28.00s] SPEAKER_00: You know, in 2017, 1957.

@@ -1,0 +1,19 @@
+[0.78s - 1.54s] SPEAKER_02: Hi, hey, hey, hey.
+[1.93s - 2.42s] SPEAKER_00: you know I heard of
+[3.06s - 4.62s] SPEAKER_00: Diane and New Jersey.
+[4.98s - 6.34s] SPEAKER_00: name Sheila and tech.
+[6.49s - 6.76s] SPEAKER_00: Okay.
+[6.84s - 7.41s] SPEAKER_00: to
+[7.49s - 7.72s] SPEAKER_00: Thank you.
+[8.06s - 8.33s] SPEAKER_00: Bye.
+[8.97s - 10.71s] SPEAKER_01: 24
+[11.18s - 11.94s] SPEAKER_02: Hi, hey, hey, hey.
+[12.33s - 12.82s] SPEAKER_00: you know I heard of
+[13.46s - 15.02s] SPEAKER_00: Diane and New Jersey.
+[15.48s - 16.84s] SPEAKER_00: name Sheila and tech.
+[16.99s - 18.22s] SPEAKER_00: for originally from Shepard.
+[18.56s - 18.83s] SPEAKER_00: Bye.
+[19.47s - 21.21s] SPEAKER_01: 24
+[21.78s - 22.54s] SPEAKER_02: Hi, hey, hey, hey.
+[22.93s - 23.42s] SPEAKER_00: you know I heard of
+[24.06s - 25.62s] SPEAKER_00: Diane and New Jersey.

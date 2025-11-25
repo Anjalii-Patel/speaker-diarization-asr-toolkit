@@ -1,0 +1,21 @@
+[0.71s - 1.16s] SPEAKER_01: So we're 25.
+[1.24s - 2.42s] SPEAKER_01: for 1970.
+[2.85s - 4.29s] SPEAKER_00: 1127.
+[4.46s - 5.24s] SPEAKER_00: Thank you, sir.
+[5.78s - 7.14s] SPEAKER_02: name Sheila and tech.
+[7.29s - 7.55s] SPEAKER_03: Okay.
+[7.64s - 8.52s] SPEAKER_02: originally from Shabby.
+[8.86s - 9.13s] SPEAKER_03: Bye.
+[9.77s - 11.51s] SPEAKER_02: 24
+[12.21s - 12.66s] SPEAKER_01: So we're 25.
+[12.74s - 13.92s] SPEAKER_01: for 1970.
+[14.35s - 15.79s] SPEAKER_00: 1127.
+[15.96s - 16.74s] SPEAKER_00: Thank you, sir.
+[17.18s - 18.54s] SPEAKER_02: name Sheila and tech.
+[18.69s - 18.95s] SPEAKER_03: Okay.
+[19.04s - 19.61s] SPEAKER_02: to
+[19.69s - 19.92s] SPEAKER_02: Thank you.
+[20.26s - 20.53s] SPEAKER_03: Bye.
+[21.17s - 22.91s] SPEAKER_02: 24
+[23.35s - 24.79s] SPEAKER_00: 1127.
+[24.96s - 25.74s] SPEAKER_00: Thank you, sir.

@@ -1,0 +1,8 @@
+[0.80s - 4.60s] SPEAKER_00: Okay, I thought you know I heard a deep this is Diane in New Jersey
+[5.00s - 8.40s] SPEAKER_03: name Sheila and Texas originally from Chicago.
+[8.80s - 11.30s] SPEAKER_02: 11, 27, 57.
+[11.80s - 13.70s] SPEAKER_01: October 24, 1970.
+[14.50s - 18.00s] SPEAKER_00: Okay, I've not, you know, I heard a deep. This is Diane in New Jersey.
+[18.50s - 21.90s] SPEAKER_03: name Sheila and Texas originally from Chicago.
+[22.30s - 24.80s] SPEAKER_02: 11, 27, 57.
+[25.30s - 27.20s] SPEAKER_01: October 24, 1970.

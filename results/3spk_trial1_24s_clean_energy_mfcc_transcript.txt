@@ -1,0 +1,15 @@
+[0.55s - 2.02s] SPEAKER_00: 1127.
+[2.17s - 2.93s] SPEAKER_00: 57.
+[3.71s - 4.16s] SPEAKER_01: So we're 25.
+[4.24s - 5.41s] SPEAKER_01: for 1970.
+[6.05s - 7.48s] SPEAKER_02: 1127.
+[7.66s - 8.43s] SPEAKER_02: Thank you, sir.
+[9.05s - 10.52s] SPEAKER_00: 1127.
+[10.67s - 11.43s] SPEAKER_00: 57.
+[12.21s - 12.66s] SPEAKER_01: So we're 25.
+[12.74s - 13.91s] SPEAKER_01: for 1970.
+[14.55s - 15.98s] SPEAKER_02: 1127.
+[16.16s - 16.93s] SPEAKER_02: Thank you, sir.
+[17.55s - 19.02s] SPEAKER_00: 1127.
+[19.17s - 19.93s] SPEAKER_00: 57.
+[20.71s - 22.41s] SPEAKER_01: October 24, 1970.

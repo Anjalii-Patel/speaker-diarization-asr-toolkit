@@ -1,0 +1,8 @@
+[0.50s - 2.40s] SPEAKER_02: October 24, 1970.
+[2.80s - 5.30s] SPEAKER_01: 11.57.57
+[5.80s - 7.70s] SPEAKER_00: I'm currently for 97.
+[8.20s - 10.20s] SPEAKER_02: October 24, 1970.
+[10.50s - 13.00s] SPEAKER_01: 11.57.57
+[13.50s - 15.50s] SPEAKER_00: I'm currently for 97.
+[16.00s - 18.00s] SPEAKER_02: October 24, 1970.
+[18.60s - 21.00s] SPEAKER_01: 11.57.57.

@@ -1,0 +1,17 @@
+[6.75s - 7.09s] SPEAKER_00: Hello?
+[7.64s - 8.96s] SPEAKER_00: Hello. Oh, hello.
+[9.09s - 11.20s] SPEAKER_00: No, you were there. Need the design. OK.
+[11.74s - 12.22s] SPEAKER_00: you know, I heard of
+[12.86s - 14.73s] SPEAKER_00: Diane and New Jersey.
+[14.86s - 15.83s] SPEAKER_00: Sheila and tech.
+[15.99s - 16.25s] SPEAKER_01: Okay.
+[16.34s - 16.91s] SPEAKER_00: to
+[17.56s - 17.82s] SPEAKER_01: Bye.
+[18.08s - 18.83s] SPEAKER_00: Oh, I'm a rich.
+[19.62s - 21.42s] SPEAKER_00: also. I'm in New Jersey now though.
+[21.80s - 23.17s] SPEAKER_00: Well, there's not much
+[23.62s - 23.85s] SPEAKER_00: friends.
+[24.50s - 25.57s] SPEAKER_00: you know they are
+[25.68s - 26.55s] SPEAKER_00: I'm here, you ain't got no money.
+[26.80s - 27.34s] SPEAKER_00: down here.
+[27.47s - 29.96s] SPEAKER_00: So we'll come back there. I don't hear that New Jersey now.

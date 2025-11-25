@@ -1,0 +1,8 @@
+[0.50s - 2.70s] SPEAKER_01: October 24, 1970.
+[2.80s - 5.30s] SPEAKER_00: You know in 57, 57.
+[5.80s - 7.90s] SPEAKER_02: I'd throw any floor in the same room.
+[8.20s - 10.30s] SPEAKER_01: October 24, 1970.
+[10.50s - 13.10s] SPEAKER_00: 11, 27, 57.
+[13.50s - 15.60s] SPEAKER_02: I put on a new floor, and it's done.
+[16.00s - 18.10s] SPEAKER_01: October 24, 1970.
+[18.50s - 21.00s] SPEAKER_00: You know, in 57, 57.

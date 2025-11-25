@@ -1,0 +1,9 @@
+[6.80s - 7.20s] SPEAKER_03: Hello?
+[7.60s - 14.00s] SPEAKER_00: Hello. Oh, hello. I didn't know you were there. Neither did I. Okay, I thought, you know, I heard a beep. This is Diane and New Jersey.
+[15.00s - 17.50s] SPEAKER_02: 11, 27, 57.
+[18.10s - 20.10s] SPEAKER_01: October 24, 1970.
+[21.00s - 24.90s] SPEAKER_00: And I'm Sheila and Texas originally from Chicago.
+[25.10s - 28.60s] SPEAKER_00: I'm originally from Chicago also. I'm in New Jersey now though.
+[28.80s - 35.00s] SPEAKER_00: Well, there's not much difference. At least, you know, they all call me a Yankee down here. So we'll come.
+[36.00s - 38.50s] SPEAKER_02: 11, 27, 57.
+[40.20s - 41.60s] SPEAKER_00: I hear that New Jersey now.

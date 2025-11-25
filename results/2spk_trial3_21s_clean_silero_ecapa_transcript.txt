@@ -1,0 +1,7 @@
+[1.00s - 3.50s] SPEAKER_01: 11.57.57
+[4.00s - 6.00s] SPEAKER_00: I'm currently for 97.
+[6.50s - 9.00s] SPEAKER_01: 11.57.57
+[9.50s - 11.50s] SPEAKER_00: I'm currently for 97.
+[12.00s - 14.50s] SPEAKER_01: 11.57.57
+[15.00s - 16.90s] SPEAKER_00: I'm currently for 97.
+[17.50s - 20.00s] SPEAKER_01: 11.57.57

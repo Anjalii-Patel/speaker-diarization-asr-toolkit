@@ -1,0 +1,7 @@
+[1.00s - 3.50s] SPEAKER_01: You know, in 27, 57.
+[4.00s - 6.10s] SPEAKER_00: I heard a lot of people are hearing this and...
+[6.50s - 9.00s] SPEAKER_01: You know, in 57, 57.
+[9.50s - 11.60s] SPEAKER_00: I put on a new floor in the ring.
+[12.00s - 14.50s] SPEAKER_01: You know, in 27, 57.
+[15.00s - 17.10s] SPEAKER_00: I throw 24, rank is 7.
+[17.50s - 20.00s] SPEAKER_01: You know, in 57, 57.

@@ -1,0 +1,7 @@
+[0.80s - 4.60s] SPEAKER_00: Okay, I thought you know I heard a deep this is Diane in New Jersey
+[5.00s - 8.40s] SPEAKER_00: name Sheila and Texas originally from Chicago.
+[8.80s - 10.80s] SPEAKER_02: I'm currently for 97.
+[11.20s - 15.00s] SPEAKER_00: Okay, I thought you know I heard a deep this is Diane in New Jersey
+[15.70s - 18.90s] SPEAKER_00: Sheila and Taksa, originally from Chicago.
+[19.30s - 21.20s] SPEAKER_01: I'm currently for 97.
+[21.80s - 25.60s] SPEAKER_00: Okay, I thought you know I heard a deep this is Diane in New Jersey

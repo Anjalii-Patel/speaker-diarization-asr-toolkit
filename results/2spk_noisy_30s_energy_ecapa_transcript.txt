@@ -1,0 +1,9 @@
+[2.34s - 2.71s] SPEAKER_01: you
+[2.89s - 3.15s] SPEAKER_01: you
+[6.74s - 7.35s] SPEAKER_00: for
+[7.51s - 12.64s] SPEAKER_00: Hello. Oh, hello. I didn't know you were there. I need the design. Okay, I saw her defeat.
+[12.83s - 15.84s] SPEAKER_00: Diane and New Jersey. And I'm Sheila and tech.
+[15.99s - 19.03s] SPEAKER_00: originally from Chicago.
+[19.37s - 21.47s] SPEAKER_00: I'm in New Jersey now though.
+[21.79s - 23.22s] SPEAKER_00: Well, there is not much
+[23.36s - 30.00s] SPEAKER_00: difference that at least they all call me a Yankee down here so I don't hear that New Jersey now.

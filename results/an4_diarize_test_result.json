@@ -1,0 +1,31 @@
+{
+  "audio_file": "data/an4_diarize_test.wav",
+  "audio_duration_sec": 5.2,
+  "processing_time_sec": 7.14,
+  "real_time_factor": 1.3733,
+  "num_speakers_detected": 2,
+  "num_segments": 3,
+  "utterances": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 0.35,
+      "end": 1.82,
+      "duration": 1.47,
+      "text": "1127."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2.18,
+      "end": 2.73,
+      "duration": 0.55,
+      "text": "37."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 3.65,
+      "end": 5.11,
+      "duration": 1.46,
+      "text": "24 1970."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+[1.00s - 4.80s] SPEAKER_01: Hey, I heard a thief. This is Diane in New Jersey.
+[5.20s - 8.70s] SPEAKER_00: I'm Sheila and Texas, originally from Chicago.
+[9.00s - 12.90s] SPEAKER_01: I heard a beep. This is Diane in New Jersey.
+[13.20s - 16.70s] SPEAKER_00: I'm Sheila and Texas originally from Chicago.
+[17.00s - 20.90s] SPEAKER_01: Okay, I've heard of these. This is Diane in New Jersey.
+[21.20s - 24.70s] SPEAKER_00: Shila and Texas originally from Chicago.

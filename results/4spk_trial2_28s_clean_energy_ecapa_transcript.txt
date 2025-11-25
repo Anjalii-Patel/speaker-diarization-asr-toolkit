@@ -1,0 +1,22 @@
+[0.78s - 1.40s] SPEAKER_00: Hi, hey there.
+[1.93s - 2.42s] SPEAKER_00: you know I heard of
+[3.06s - 4.62s] SPEAKER_00: Diane and New Jersey.
+[4.98s - 5.23s] SPEAKER_02: Thanks.
+[5.36s - 6.33s] SPEAKER_00: Sheila and tech.
+[6.49s - 6.75s] SPEAKER_02: Okay.
+[6.84s - 7.41s] SPEAKER_00: to
+[8.06s - 8.32s] SPEAKER_02: Bye.
+[8.85s - 10.32s] SPEAKER_01: 1127.
+[10.47s - 11.23s] SPEAKER_01: 57.
+[12.01s - 13.71s] SPEAKER_03: October 24, 1970.
+[14.18s - 14.80s] SPEAKER_00: Hi, hey there.
+[15.33s - 15.82s] SPEAKER_00: you know I heard of
+[16.46s - 18.02s] SPEAKER_00: Diane and New Jersey.
+[18.48s - 18.73s] SPEAKER_02: Thanks.
+[18.86s - 19.83s] SPEAKER_00: Sheila and tech.
+[19.99s - 20.25s] SPEAKER_02: Okay.
+[20.34s - 20.91s] SPEAKER_00: to
+[21.56s - 21.82s] SPEAKER_02: Bye.
+[22.35s - 23.82s] SPEAKER_01: 1127.
+[23.97s - 24.73s] SPEAKER_01: 57.
+[25.51s - 27.21s] SPEAKER_03: October 24, 1970.

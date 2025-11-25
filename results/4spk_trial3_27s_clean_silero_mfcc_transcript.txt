@@ -1,0 +1,9 @@
+[0.50s - 2.40s] SPEAKER_01: October 24, 1970.
+[2.80s - 5.30s] SPEAKER_03: 11.57.57
+[5.80s - 9.20s] SPEAKER_02: name Sheila and Texas originally from Chicago.
+[9.60s - 11.60s] SPEAKER_00: I'm currently for 97.
+[12.00s - 14.00s] SPEAKER_01: October 24, 1970.
+[14.30s - 16.80s] SPEAKER_03: 11.57.57
+[17.20s - 20.60s] SPEAKER_02: name Sheila and Texas originally from Chicago.
+[21.00s - 22.90s] SPEAKER_00: I'm currently for 97.
+[23.30s - 25.80s] SPEAKER_03: 11.57.57

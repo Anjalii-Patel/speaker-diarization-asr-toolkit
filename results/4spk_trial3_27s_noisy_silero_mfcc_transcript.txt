@@ -1,0 +1,9 @@
+[0.50s - 2.70s] SPEAKER_01: October 24, 1970.
+[2.80s - 5.30s] SPEAKER_00: You know in 57, 57.
+[5.80s - 9.30s] SPEAKER_02: Shila and Texas originally from Chicago.
+[9.60s - 11.70s] SPEAKER_03: I'm currently for the magazine.
+[12.00s - 14.10s] SPEAKER_01: October 24, 1970.
+[14.30s - 16.80s] SPEAKER_00: 11.57.57.
+[17.20s - 20.70s] SPEAKER_02: I'm Sheila and Texas originally from Chicago.
+[21.00s - 23.10s] SPEAKER_03: I throw it on the floor, and then he says,
+[23.30s - 25.80s] SPEAKER_00: 11.57.57.

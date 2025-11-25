@@ -1,0 +1,7 @@
+[0.80s - 4.80s] SPEAKER_01: I heard a beep. This is Diane in New Jersey.
+[5.00s - 8.50s] SPEAKER_02: Shila and Texas originally from Chicago.
+[8.80s - 10.90s] SPEAKER_00: I'm 24, 90, 70.
+[11.20s - 15.20s] SPEAKER_01: I heard a beep. This is Diane in New Jersey.
+[15.50s - 18.90s] SPEAKER_02: Shira and TeXa, originally from Chicago.
+[19.30s - 21.40s] SPEAKER_00: I put it on the floor, Mary can you stand it?
+[21.80s - 25.60s] SPEAKER_01: Okay, I heard a beep. This is Diane in New Jersey.

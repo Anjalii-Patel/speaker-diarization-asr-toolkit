@@ -1,0 +1,25 @@
+[6.75s - 7.09s] SPEAKER_02: Hello?
+[7.64s - 8.96s] SPEAKER_03: Hello. Oh, hello.
+[9.09s - 11.20s] SPEAKER_02: No, you were there. Need the design. OK.
+[11.74s - 12.22s] SPEAKER_02: you know, I heard of
+[12.86s - 13.90s] SPEAKER_02: Diana New Jersey.
+[15.05s - 16.52s] SPEAKER_01: 1127.
+[16.67s - 17.43s] SPEAKER_01: 57.
+[18.25s - 18.70s] SPEAKER_00: So we're 25.
+[18.79s - 19.95s] SPEAKER_00: for 1970.
+[20.98s - 21.73s] SPEAKER_02: I'm
+[21.86s - 22.83s] SPEAKER_02: Sheila and tech.
+[22.99s - 23.25s] SPEAKER_02: Okay.
+[23.34s - 23.91s] SPEAKER_02: to
+[24.56s - 24.82s] SPEAKER_02: Bye.
+[25.08s - 25.83s] SPEAKER_02: Oh, I'm a rich.
+[26.62s - 28.42s] SPEAKER_02: also. I'm in New Jersey now though.
+[28.80s - 30.17s] SPEAKER_02: Well, there's not much
+[30.62s - 30.85s] SPEAKER_02: friends.
+[31.50s - 32.57s] SPEAKER_02: you know they are
+[32.68s - 33.55s] SPEAKER_02: I'm here, you ain't got no money.
+[33.80s - 34.34s] SPEAKER_02: down here.
+[34.47s - 34.81s] SPEAKER_02: Thank you.
+[36.05s - 37.52s] SPEAKER_01: 1127.
+[37.67s - 38.43s] SPEAKER_01: 57.
+[39.48s - 41.46s] SPEAKER_02: I don't hear that New Jersey now.

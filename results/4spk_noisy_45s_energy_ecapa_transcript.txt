@@ -1,0 +1,20 @@
+[0.62s - 0.86s] SPEAKER_01: you
+[1.54s - 1.82s] SPEAKER_01: you
+[1.91s - 2.14s] SPEAKER_01: you
+[2.28s - 2.72s] SPEAKER_01: you
+[3.38s - 3.66s] SPEAKER_01: you
+[5.65s - 5.84s] SPEAKER_01: you
+[6.74s - 7.17s] SPEAKER_03: Hello?
+[7.55s - 12.50s] SPEAKER_00: Hello. Oh, hello. I didn't know you were there. I needed the design. Okay, I saw you know, I heard a beep.
+[12.63s - 13.92s] SPEAKER_00: This is Diane in New Jersey.
+[14.20s - 14.45s] SPEAKER_01: you
+[15.04s - 17.53s] SPEAKER_00: 11, 27, 57.
+[18.05s - 20.04s] SPEAKER_02: October 24, 1970.
+[20.87s - 24.84s] SPEAKER_00: The Anime Shiloh and Tecza, originally from Chicago.
+[24.96s - 28.51s] SPEAKER_00: Oh, I'm originally from Chicago also, I'm in New Jersey now though.
+[28.77s - 31.33s] SPEAKER_00: Well, there is not much difference, but at least
+[31.45s - 35.07s] SPEAKER_00: So, you know, they all call me a Yankee down here, so look up.
+[36.04s - 38.49s] SPEAKER_00: 11, 27, 57.
+[39.44s - 41.52s] SPEAKER_00: I don't hear that New Jersey now.
+[42.27s - 42.52s] SPEAKER_01: you
+[44.56s - 44.79s] SPEAKER_01: you

@@ -1,0 +1,11 @@
+{
+  "diarization": {
+    "der": 0.4682,
+    "jer": 0.7341,
+    "missed_speech": 0.0,
+    "false_alarm": 0.0,
+    "speaker_error": 0.4682,
+    "total_ref_time": 16.19
+  },
+  "collar_sec": 0.25
+}

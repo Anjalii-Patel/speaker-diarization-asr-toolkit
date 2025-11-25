@@ -1,0 +1,11 @@
+[1.05s - 2.49s] SPEAKER_01: 1127.
+[2.66s - 3.44s] SPEAKER_00: Thank you, sir.
+[4.17s - 5.91s] SPEAKER_00: 24
+[6.55s - 7.99s] SPEAKER_01: 1127.
+[8.16s - 8.94s] SPEAKER_00: Thank you, sir.
+[9.67s - 11.41s] SPEAKER_00: 24
+[12.05s - 13.49s] SPEAKER_01: 1127.
+[13.66s - 14.44s] SPEAKER_00: Thank you, sir.
+[15.17s - 16.91s] SPEAKER_00: 24
+[17.55s - 18.99s] SPEAKER_01: 1127.
+[19.16s - 19.94s] SPEAKER_00: Thank you, sir.

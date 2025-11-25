@@ -1,0 +1,8 @@
+[0.80s - 4.80s] SPEAKER_03: Hey, I saw you know I heard a beep. This is Diane in New Jersey.
+[5.00s - 8.50s] SPEAKER_02: Shila and Texas originally from Chicago.
+[8.80s - 11.40s] SPEAKER_01: 11, 27, 57.
+[11.80s - 13.90s] SPEAKER_00: October 24, 1970.
+[14.20s - 18.20s] SPEAKER_03: I heard a beep. This is Diane in New Jersey.
+[18.50s - 21.90s] SPEAKER_02: Shiloh and Texas originally from Chicago.
+[22.30s - 24.90s] SPEAKER_01: 11, 27, 57.
+[25.30s - 27.50s] SPEAKER_00: October 24, 1970.

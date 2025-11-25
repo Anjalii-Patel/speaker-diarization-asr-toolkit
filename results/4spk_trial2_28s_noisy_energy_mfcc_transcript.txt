@@ -1,0 +1,8 @@
+[0.28s - 0.46s] SPEAKER_01: you
+[0.77s - 8.39s] SPEAKER_02: Okay, I said, you know, I heard a beep. This is Diane in New Jersey. I'm Sheila and Texas originally from Chicago.
+[8.78s - 11.42s] SPEAKER_00: 11, 27, 57.
+[11.70s - 13.75s] SPEAKER_03: October 24, 1970.
+[14.10s - 18.16s] SPEAKER_02: Hey, I've heard of these. This is Diane and New Jersey.
+[18.48s - 25.10s] SPEAKER_00: Time she will and practice originally from Chicago. 11, 27, 57.
+[25.23s - 27.51s] SPEAKER_03: October 24, 1970.
+[27.61s - 28.29s] SPEAKER_01: you

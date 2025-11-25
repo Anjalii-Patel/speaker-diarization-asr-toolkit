@@ -1,0 +1,8 @@
+[0.50s - 3.10s] SPEAKER_02: 11, 27, 57.
+[3.50s - 5.70s] SPEAKER_00: October 24, 1970.
+[6.00s - 8.50s] SPEAKER_01: You know, in 1757.
+[9.00s - 11.60s] SPEAKER_02: 11, 27, 57.
+[12.00s - 14.10s] SPEAKER_00: October 24, 1970.
+[14.50s - 17.10s] SPEAKER_01: You know, 27, 57.
+[17.50s - 20.10s] SPEAKER_02: 11, 27, 57.
+[20.50s - 22.60s] SPEAKER_00: October 24, 1970.

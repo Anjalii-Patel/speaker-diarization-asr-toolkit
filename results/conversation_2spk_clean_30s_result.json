@@ -1,0 +1,38 @@
+{
+  "audio_file": "data/conversation_2spk_clean_30s.wav",
+  "audio_duration_sec": 30.0,
+  "processing_time_sec": 11.82,
+  "real_time_factor": 0.394,
+  "num_speakers_detected": 2,
+  "num_segments": 4,
+  "utterances": [
+    {
+      "speaker": "SPEAKER_01",
+      "start": 6.8,
+      "end": 7.2,
+      "duration": 0.4,
+      "text": "Hello?"
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 7.6,
+      "end": 17.9,
+      "duration": 10.3,
+      "text": "Hello. Oh, hello. I didn't know you were there. I needed to die. Okay, I thought, you know, I heard of deep. This is Diane in New Jersey. And I'm Sheila and Texas originally from Chicago."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 18.1,
+      "end": 21.6,
+      "duration": 3.5,
+      "text": "I'm originally from Chicago also. I'm in New Jersey now though."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 21.8,
+      "end": 30.0,
+      "duration": 8.2,
+      "text": "Well, there's not much difference. At least, you know, they all call me a Yankee down here. So we'll come. I don't hear that New Jersey now."
+    }
+  ]
+}
